@@ -5,7 +5,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useGetSearchCourseQuery } from "@/features/api/courseApi";
 import { Link, useSearchParams } from "react-router-dom";
 import { AlertCircle } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/ui/button";
 
 const SearchPage = () => {
   const [searchParams] = useSearchParams();

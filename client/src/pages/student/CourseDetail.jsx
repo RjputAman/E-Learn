@@ -1,5 +1,5 @@
 import BuyCourseButton from "@/components/BuyCourseButton";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/ui/button";
 import {
   Card,
   CardContent,
@@ -7,7 +7,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card";
+} from "@/components/ui/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { useGetCourseDetailWithStatusQuery } from "@/features/api/purchaseApi";
 import { BadgeInfo, Lock, PlayCircle } from "lucide-react";

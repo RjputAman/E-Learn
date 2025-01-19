@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/ui/button";
+import { Input } from "@/components/ui/ui/input";
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 

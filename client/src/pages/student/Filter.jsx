@@ -1,5 +1,5 @@
 import { Checkbox } from "@/components/ui/checkbox";
-import { Label } from "@/components/ui/label";
+import { Label } from "@/components/ui/ui/label";
 import {
   Select,
   SelectContent,

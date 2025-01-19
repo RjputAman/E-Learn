@@ -1,6 +1,6 @@
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/ui/button";
+import { Card, CardContent, CardTitle } from "@/components/ui/ui/card";
 import {
   useCompleteCourseMutation,
   useGetCourseProgressQuery,
